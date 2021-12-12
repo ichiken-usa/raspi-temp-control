@@ -159,6 +159,7 @@ class LoadThread(threading.Thread):
 
     def run(self):
 
+        # 乗算をひたすらループ
         while True:
             rand1 = np.random.rand(1000,1000)
             rand2 = np.random.rand(1000,1000)
