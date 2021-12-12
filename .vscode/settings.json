@@ -1,0 +1,13 @@
+{
+    "cSpell.ignoreWords": [
+        "Popen",
+        "Rstderr",
+        "Rstdout",
+        "cpufrequtils",
+        "ondemand",
+        "pyplot",
+        "twinx",
+        "vcgencmd",
+        "ylim"
+    ]
+}
